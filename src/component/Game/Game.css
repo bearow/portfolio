@@ -1,0 +1,9 @@
+.game {
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -300px;
+    background-color: lightblue;
+}
